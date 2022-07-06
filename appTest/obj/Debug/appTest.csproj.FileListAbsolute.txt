@@ -1,0 +1,7 @@
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\bin\Debug\appTest.exe.config
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\bin\Debug\appTest.exe
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\bin\Debug\appTest.pdb
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\obj\Debug\appTest.csproj.AssemblyReference.cache
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\obj\Debug\appTest.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\obj\Debug\appTest.exe
+C:\Users\Nigel Diones\Documents\csharp\appTest\appTest\obj\Debug\appTest.pdb
